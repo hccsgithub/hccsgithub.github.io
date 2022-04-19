@@ -1,5 +1,5 @@
 ## Welcome to hccsgithub's GitHub Pages
-！[Alt text](image/welcome.jpeg)
+！[photo](/image/welcome.jpeg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -7,9 +7,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 主题1
+## 主题2
+### 主题3
 
 - Bulleted
 - List
