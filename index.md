@@ -1,5 +1,5 @@
 ## Welcome to hccsgithub's GitHub Pages
-！[Alt text](/image/welcome.png)
+！[Alt text](image/welcome.jpeg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
