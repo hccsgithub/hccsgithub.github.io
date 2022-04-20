@@ -17,10 +17,6 @@
   </tr>
 </table>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # 主题1
 ## 主题2
@@ -39,20 +35,22 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hccsgithub/hccsgithub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### hccsgithub's message
 
 <div align="center"> <img src="https://metrics.lecoq.io/hccsgithub?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-### Other
+### hccsgithub's near-term activities 
 
-![Visitor Count](https://profile-counter.glitch.me/hccsgithub/count.svg)
+<!--（GitHub 活动统计图）-->
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hccsgithub&theme=xcode" /> </div>
+
+### Other
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hccsgithub)](https://github.com/Christmas/github-readme-stats)
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=hccsgithub&show_icons=true&theme=tokyonight)
-<!--（GitHub 活动统计图）-->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hccsgithub&theme=xcode" /> </div>
+
 <!--（GitHub 连续打卡） -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hccsgithub" /> </div>
+### 访问量
+![Visitor Count](https://profile-counter.glitch.me/hccsgithub/count.svg)
