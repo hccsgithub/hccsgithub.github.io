@@ -12,7 +12,7 @@
       <p><b>地址：青岛市崂山区松岭路，邮编：266000</b></p>
     </td>
     <td width="25%">
-      <img src="/image/welcome.jpeg" width="100%">      % 插入证件照代码
+      <img src="/image/welcom.jpeg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
