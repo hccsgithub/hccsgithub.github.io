@@ -17,38 +17,24 @@
   </tr>
 </table>
 
-### hccsgithub's message
-
+### GitHub信息
 <div align="center"> <img src="https://metrics.lecoq.io/hccsgithub?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-
-
-# 主题1
-## 主题2
-### 主题3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-### hccsgithub's near-term activities 
+### 近期活动图 
 
 <!--（GitHub 活动统计图）-->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hccsgithub&theme=xcode" /> </div>
 
 ### Other
 
+#### 常用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hccsgithub)](https://github.com/Christmas/github-readme-stats)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=hccsgithub&show_icons=true&theme=tokyonight)
+#### hccsgithub's GitHub stats
+![hccsgithub's GitHub stats](https://github-readme-stats.vercel.app/api?username=hccsgithub&show_icons=true&theme=tokyonight)
 
-<!--（GitHub 连续打卡） -->
+#### 打卡情况
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hccsgithub" /> </div>
-### 访问量
+
+#### 访问量
 ![Visitor Count](https://profile-counter.glitch.me/hccsgithub/count.svg)
