@@ -17,6 +17,11 @@
   </tr>
 </table>
 
+### hccsgithub's message
+
+<div align="center"> <img src="https://metrics.lecoq.io/hccsgithub?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+
 
 # 主题1
 ## 主题2
@@ -31,13 +36,6 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### hccsgithub's message
-
-<div align="center"> <img src="https://metrics.lecoq.io/hccsgithub?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ### hccsgithub's near-term activities 
 
