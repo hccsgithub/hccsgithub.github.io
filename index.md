@@ -43,11 +43,16 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hccsgithub/hccsgithub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Other
+
 ![Visitor Count](https://profile-counter.glitch.me/hccsgithub/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hccsgithub)](https://github.com/Christmas/github-readme-stats)
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=hccsgithub&show_icons=true&theme=tokyonight)
+<!--（GitHub 活动统计图）-->
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hccsgithub&theme=xcode" /> </div>
+<!--（GitHub 连续打卡） -->
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hccsgithub" /> </div>
