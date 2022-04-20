@@ -43,7 +43,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hccsgithub/hccsgithub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/hccsgithub?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ### Other
 
